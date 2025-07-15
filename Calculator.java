@@ -23,9 +23,9 @@ public class Calculator {
         int x = 20;
         int y = 5;
 
-        System.out.println("Addition: " + calc.add(x, y));       // 25
-        System.out.println("Subtraction: " + calc.subtract(x, y)); // 15
-        System.out.println("Multiplication: " + calc.multiply(x, y)); // 100
-        System.out.println("Division: " + calc.divide(x, y));     // 4.0
+        System.out.println("Addition: " + calc.add(x, y));   
+        System.out.println("Subtraction: " + calc.subtract(x, y));
+        System.out.println("Multiplication: " + calc.multiply(x, y)); 
+        System.out.println("Division: " + calc.divide(x, y)); 
     }
 }
